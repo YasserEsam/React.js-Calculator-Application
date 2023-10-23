@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YasserEsam/React.js-Calculator-Application/static/css/main.2fb433ba.css",
+    "main.js": "/YasserEsam/React.js-Calculator-Application/static/js/main.ad5b41c9.js",
+    "index.html": "/YasserEsam/React.js-Calculator-Application/index.html",
+    "main.2fb433ba.css.map": "/YasserEsam/React.js-Calculator-Application/static/css/main.2fb433ba.css.map",
+    "main.ad5b41c9.js.map": "/YasserEsam/React.js-Calculator-Application/static/js/main.ad5b41c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb433ba.css",
+    "static/js/main.ad5b41c9.js"
+  ]
+}
